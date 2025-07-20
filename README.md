@@ -31,9 +31,9 @@ Last 1.5 years, I spent as a Team Lead managing a fully remote team of 8 people 
 
 During the sabbatical for about 3 months, I took care of some of the health issues, read lots of books and completed 2 pilgrimages:
 - Shikoku Henro Pilgrimage (四国遍路), Japan
-- I took many longer alternative paths and did an extension to this pilgrimage, which totalled to [~1775km and ~30km elevation gain](https://www.strava.com/athletes/142821511) in 53 days.
+  - I took many longer alternative paths and did an extension to this pilgrimage, which totalled to [~1775km and ~30km elevation gain](https://www.strava.com/athletes/142821511) in 53 days.
 - El Camino Frances + Fisterre Pilgrimage, Spain
-- Walked a total of [~1000km and ~14km elevation gain]((https://www.strava.com/athletes/142821511))
+  - Walked a total of [~1000km and ~14km elevation gain]((https://www.strava.com/athletes/142821511))
 
 Those were some of the most epic adventures I've had to date, with a number of personal breakthroughs, valuable life lessons, decisions made, and countless blisters on my feet.
 
