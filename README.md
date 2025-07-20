@@ -66,7 +66,7 @@ I played ice hockey for 11 years, which taught me the values of trust in the tea
 
 ## Fun Facts
 
-1️⃣ In 2017, I had a chance to ask 1 question to "Uncle Bob" (Robert Cecil Martin), whom I met at the tech event in London. My question was: "What would you advise a 25-year-old self who switched careers to become a Software Engineer?"
+1️⃣ In 2017, I had a chance to ask 1 question to "Uncle Bob" ([Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)), whom I met at the tech event in London. My question was: "What would you advise a 25-year-old self who switched careers to become a Software Engineer?"
 
 With a wise and friendly smile, he replied:
 
