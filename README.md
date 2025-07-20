@@ -21,11 +21,11 @@ I was fortunate to work with many talented engineers and non-engineers, many of 
 
 Last 1.5 years, I spent as a Team Lead managing a fully remote team of 8 people representing 7 nationalities. After which, I embarked on a self-improvised [sabbatical](#sabbatical) to reflect and think about my next steps.
 
-##### Skill Progression
+##### ➕ Skill Progression
 
-- Team Leadership
-- Payment Systems, Real-time video streaming
-- Technologies: Go, Java, Spring, AWS, Postgres, Redis, Terraform, Helm, Git and others
+- ✅ Team Leadership
+- ✅ Payment Systems, Real-time video streaming
+- ✅ Technologies: Go, Java, Spring, AWS, Postgres, Redis, Terraform, Helm, Git and others
 
 #### Sabbatical
 
@@ -43,20 +43,20 @@ While working at the hotel, I quite randomly went for a hackathon. I was quite i
 
 After finishing the bootcamp, I spent 3 months searching for a new role. I went to a job fair, from which I ended up with 2 offers for a Junior Software Engineer position. Thus, my current career has begun .
 
-##### Skill Progression
+##### ➕ Skill Progression
 
-- Web Development Fundamentals & SEO
-- Coding
-- Client Management
+- ✅ Web Development Fundamentals & SEO
+- ✅ Coding
+- ✅ Client Management
 
 ## 2010 - 2014: Luxury Hospitality
 
 I studied Hotel and Tourism Management, and worked in between the semesters at prestigious 5-star hotels and 3-star Michelin restaurants in the UK. The career prospects were promising, but shortly after moving to London for my Manager-in-Training, I decided to drop out and leave the industry. I had no plan and no idea what I was doing
 
-##### Skill Progression
+##### ➕ Skill Progression
 
-- Communication Ability
-- Working in high-pressure environments
+- ✅ Communication Ability
+- ✅ Working in high-pressure environments
 
 ## Early Life
 
@@ -66,13 +66,15 @@ I played ice hockey for 11 years, which taught me the values of trust in the tea
 
 ## Fun Facts
 
-1. In 2017, I had a chance to ask 1 question to "Uncle Bob" (Robert Cecil Martin), whom I met at the tech event in London. My question was: "What would you advise a 25-year-old self who switched careers to become a Software Engineer?"
+1️⃣ In 2017, I had a chance to ask 1 question to "Uncle Bob" (Robert Cecil Martin), whom I met at the tech event in London. My question was: "What would you advise a 25-year-old self who switched careers to become a Software Engineer?"
 
 With a wise and friendly smile, he replied:
 
 > Find a mentor
 
 I follow this advice to this day. In life and work.
+
+2️⃣ I probably became fluent in English by playing World of Warcraft. I will be forever grateful to my grandma for investing in my extra English lessons from an early age.
 
 ### Links
 - See my [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer) for a more detailed look at my career
