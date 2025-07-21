@@ -2,7 +2,9 @@
 
 A `00000001` about myself and my past experiences.
 
-This is a living document that summarises my past life and work experiences, presented in reverse chronological order, similar to a resume. While this is not strictly a resume, it is a story I want to share about my path that has led me to where I am today.
+This is a living document that summarises my past life and work experiences, presented in reverse chronological order, similar to a resume.
+
+While this is not strictly a resume, it is a story I want to share about my path that has led me to where I am today (see my [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer) for a more detailed look at my career).
 
 - [2016 - Present: Software Engineer](#2016---present-software-engineer)
 - [2014 - 2016: Digital Marketing & First Taste of Web Development](#2014---2016-digital-marketing--first-taste-of-web-development)
@@ -19,17 +21,21 @@ Over the years, I have had the pleasure of working for several London-based comp
 
 I was fortunate to work with many talented engineers and non-engineers, many of whom became my mentors and close friends.
 
-Last 1.5 years, I spent as a Team Lead managing a fully remote team of 8 people representing 7 nationalities. After which, I embarked on a self-improvised [sabbatical](#sabbatical) to reflect and think about my next steps.
+In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7 nationalities, managing 3 finTech products for UK-based banks and financial institutions. These systems were deployed in Kubernetes and designed as distributed microservices architectures.
+
+After this experience, I embarked on a self-improvised [sabbatical](#sabbatical) to reflect and think about my next steps.
 
 ##### ➕ Skill Progression
 
 - ✅ Team Leadership
 - ✅ Payment Systems, Real-time video streaming
 - ✅ Technologies: Go, Java, Spring, AWS, Postgres, Redis, Terraform, Helm, Git and others
+- ✅ Distributed Systems, Microservice Architecture
 
 #### Sabbatical
 
 During the sabbatical for about 3 months, I took care of some of the health issues, read lots of books and completed 2 pilgrimages:
+
 - Shikoku Henro Pilgrimage (四国遍路), Japan
   - I took many longer alternative paths and did an extension to this pilgrimage, which totalled to [~1775km and ~30km elevation gain](https://www.strava.com/athletes/142821511) in 53 days.
 - El Camino Frances + Fisterre Pilgrimage, Spain
@@ -39,7 +45,7 @@ Those were some of the most epic adventures I've had to date, with a number of p
 
 ## 2014 - 2016: Digital Marketing & First Taste of Web Development
 
-While working at the hotel, I quite randomly went for a hackathon. I was quite into bodybuilding at the time and had an idea related to that to pitch. My idea even got shortlisted, but I failed to attract the interest of developers who were at the hackathon to join my group, so we couldn't build anything. With the team disbanded, I joined another team where I met someone who ran an SEO Agency. I asked if I could come and work for them, and to my amazement, they agreed. I had no clue what SEO meant at the time, or how the web worked, but I learned pretty fast. The more I learned, the more I found myself enjoying doing the technical side of things, which eventually led me to enrol on an online coding bootcamp.
+While working at the hotel, I quite randomly went for a hackathon. I was quite into bodybuilding at the time and had an idea related to that to pitch. My idea even got shortlisted, but I failed to attract the interest of developers who were at the hackathon to join my group, so we couldn't build anything. With the team disbanded, I joined another team where I met someone who ran an SEO Agency. I asked if I could come and work for them, and to my amazement, they agreed. I had no clue what SEO meant at the time, or how the web worked, but I learned pretty fast. The more I learned, the more I found myself enjoying doing the technical side of things, which eventually led me to enrol on an online [coding bootcamp](https://aleksgorbenko.dev/firehose-project-week-1/).
 
 After finishing the bootcamp, I spent 3 months searching for a new role. I went to a job fair, from which I ended up with 2 offers for a Junior Software Engineer position. Thus, my current career has begun .
 
@@ -79,8 +85,8 @@ I follow this advice to this day. In life and work.
 2️⃣ I probably became fluent in English by playing World of Warcraft. I will be forever grateful to my grandma for investing in my extra English lessons from an early age.
 
 ### Links
-- See my [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer) for a more detailed look at my career
-- To learn more about how I work, have a look at [this repo](https://github.com/aleksgorbenko/howiwork)
+- 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
+- 👨🏻‍💻 [How I Work](https://github.com/aleksgorbenko/howiwork)
 
 Thanks for reading!
 
