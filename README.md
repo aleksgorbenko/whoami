@@ -6,6 +6,8 @@ This is a living document that summarises my past life and work experiences, pre
 
 While this is not strictly a resume, it is a story I want to share about my path that has led me to where I am today (see my [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer) for a more detailed look at my career).
 
+## 📑 Table of Contents
+
 - [2016 - Present: Software Engineer](#2016---present-software-engineer)
 - [2014 - 2016: Digital Marketing & First Taste of Web Development](#2014---2016-digital-marketing--first-taste-of-web-development)
 - [2010 - 2014: Luxury Hospitality](#2010---2014-luxury-hospitality)
@@ -25,7 +27,7 @@ In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7
 
 After this experience, I embarked on a self-improvised [sabbatical](#sabbatical) to reflect and think about my next steps.
 
-##### ➕ Skill Progression
+#### ➕ Skill Progression
 
 - ✅ Team Leadership
 - ✅ Payment Systems, Real-time video streaming
@@ -49,7 +51,7 @@ While working at the hotel, I quite randomly went for a hackathon. I was quite i
 
 After finishing the bootcamp, I spent 3 months searching for a new role. I went to a job fair, from which I ended up with 2 offers for a Junior Software Engineer position. Thus, my current career has begun .
 
-##### ➕ Skill Progression
+#### ➕ Skill Progression
 
 - ✅ Web Development Fundamentals & SEO
 - ✅ Coding
@@ -59,7 +61,7 @@ After finishing the bootcamp, I spent 3 months searching for a new role. I went 
 
 I studied Hotel and Tourism Management, and worked in between the semesters at prestigious 5-star hotels and 3-star Michelin restaurants in the UK. The career prospects were promising, but shortly after moving to London for my Manager-in-Training, I decided to drop out and leave the industry. I had no plan and no idea what I was doing
 
-##### ➕ Skill Progression
+#### ➕ Skill Progression
 
 - ✅ Communication Ability
 - ✅ Working in high-pressure environments
