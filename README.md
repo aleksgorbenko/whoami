@@ -1,6 +1,6 @@
 # Who am I?
 
-A 00000001 about myself and my past experiences.
+A `00000001` about myself and my past experiences.
 
 This is a living document that summarises my past life and work experiences, presented in reverse chronological order, similar to a resume. While this is not strictly a resume, it is a story I want to share about my path that has led me to where I am today.
 
