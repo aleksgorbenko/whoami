@@ -20,12 +20,13 @@ Over the years, I have had the pleasure of working for several London-based comp
 
 - Junior Engineer to Senior Engineer in 3.5 years
 - Senior Engineer to Team Lead in the next 2.5 years
+- Team Lead for 1.5 years
 
 I was fortunate to work with many talented engineers and non-engineers, many of whom became my mentors and close friends.
 
 In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7 nationalities, managing 3 finTech products for UK-based banks and financial institutions. These systems were deployed in Kubernetes and designed as distributed microservices architectures.
 
-After this experience, I embarked on a self-improvised [sabbatical](#sabbatical) to reflect and think about my next steps.
+After this experience, I embarked on a self-improvised [sabbatical](#-sabbatical) to reflect and think about my next steps.
 
 #### ➕ Skill Progression
 
@@ -34,7 +35,7 @@ After this experience, I embarked on a self-improvised [sabbatical](#sabbatical)
 - ✅ Technologies: Go, Java, Spring, AWS, Postgres, Redis, Terraform, Helm, Git and others
 - ✅ Distributed Systems, Microservice Architecture
 
-#### Sabbatical
+### 🥾 Sabbatical
 
 During the sabbatical for about 3 months, I took care of some of the health issues, read lots of books and completed 2 pilgrimages:
 
