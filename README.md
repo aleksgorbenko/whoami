@@ -10,7 +10,7 @@ While this is not strictly a resume, it is a story I want to share about my path
 
 - [👨🏻‍🦲 2016 - Present: Software Engineer](#-2016---present-software-engineer)
 - [🌐 2014 - 2016: SEO & First Taste of Web Development](#-2014---2016-seo--first-taste-of-web-development)
-- [🍽️ 2010 - 2014: Luxury Hospitality](#-2010---2014-luxury-hospitality)
+- [🍽️ 2010 - 2014: Luxury Hospitality](#️-2010---2014-luxury-hospitality)
 - [👦🏻 Early Life](#-early-life)
 - [🙊 Fun Facts](#-fun-facts)
 
