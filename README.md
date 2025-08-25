@@ -89,7 +89,9 @@ I follow this advice to this day. In life and work.
 
 ### Links
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
+- 💻 [GitHub Profile](https://github.com/aleksgorbenko)
 - 👨🏻‍💻 [How I Work](https://github.com/aleksgorbenko/howiwork)
+- 📝 [Blog](https://aleksgorbenko.dev)
 
 Thanks for reading!
 
