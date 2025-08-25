@@ -48,9 +48,9 @@ Those were some of the most epic adventures I've had to date, with a number of p
 
 ## 🌐 2014 - 2016: SEO & First Taste of Web Development
 
-While working at the hotel, I quite randomly went for a hackathon. I was quite into bodybuilding at the time and had an idea related to that to pitch. My idea even got shortlisted, but I failed to attract the interest of developers who were at the hackathon to join my group, so we couldn't build anything. With the team disbanded, I joined another team where I met someone who ran an SEO Agency. I asked if I could come and work for them, and to my amazement, they agreed. I had no clue what SEO meant at the time, or how the web worked, but I learned pretty fast. The more I learned, the more I found myself enjoying doing the technical side of things, which eventually led me to enrol on an online [coding bootcamp](https://aleksgorbenko.dev/firehose-project-week-1/).
+While working at the hotel, I quite randomly went for a hackathon. I was quite into bodybuilding at the time and had an idea related to that to pitch. My idea even got shortlisted, but I failed to attract the interest of developers who were at the hackathon to join my group, so we couldn't build anything. With the team disbanded, I joined another team where I met someone who ran an SEO Agency. I asked if I could come and work for them, and to my amazement, they agreed. I had no clue what SEO meant at the time, or how the web worked, but I learned pretty fast and started to dabble with HTML, CSS, JavaScript. The more I learned, the more I found myself enjoying doing the technical side of things, which eventually led me to enrol on an online [coding bootcamp](https://aleksgorbenko.dev/firehose-project-week-1/).
 
-After finishing the bootcamp, I spent 3 months searching for a new role. I went to a job fair, from which I ended up with 2 offers for a Junior Software Engineer position. This taught me the importance of a face-to-face interaction and networking. I blogged about my search [here](https://medium.com/free-code-camp/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f).
+After finishing the bootcamp, I spent 3 months searching for a new role whilst still working for the agency. After going to a random tech job fair, I landed 2 opportunities, both of which translated offers for a Junior Software Engineer position. This taught me the importance of a face-to-face interaction and networking. I blogged about my search [here](https://medium.com/free-code-camp/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f).
 
 #### ➕ Skill Progression
 
@@ -60,7 +60,7 @@ After finishing the bootcamp, I spent 3 months searching for a new role. I went 
 
 ## 🍽️ 2010 - 2014: Luxury Hospitality
 
-I studied Hotel and Tourism Management, and worked in between the semesters at prestigious 5-star hotels and 3-star Michelin restaurants in the UK. The career prospects were promising, but shortly after moving to London for my Manager-in-Training, I decided to drop out and leave the industry. I had no plan and no idea what I was doing
+I studied Hotel and Tourism Management, and worked in between the semesters at prestigious 5-star hotels and 3-star Michelin restaurants in the UK. The career prospects were promising, but shortly after moving to London for my Manager-in-Training, I decided to drop out and leave the industry. I had no plan and no idea what I was doing, but I was determined to make the most of time in London and figure out my career path.
 
 #### ➕ Skill Progression
 
