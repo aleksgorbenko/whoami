@@ -14,6 +14,10 @@ While this is not strictly a resume, it is a story I want to share about my path
 - [👦🏻 Early Life](#-early-life)
 - [🙊 Fun Facts](#-fun-facts)
 
+## Now
+
+To see what I am up to most recently see my [status](https://github.com/aleksgorbenko#_status) section of my Github Profile or [Now](https://aleksgorbenko.dev/now/) page on my blog.
+
 ## 👨🏻‍🦲 2016 - Present: Software Engineer
 
 Over the years, I have had the pleasure of working for several London-based companies in fintech, live-stream video and employee engagement sectors and growing professionally:
