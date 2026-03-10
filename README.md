@@ -9,12 +9,15 @@ While this is not strictly a resume, it is a story I want to share about my path
 ## 📑 Table of Contents
 
 - [👨🏻‍🦲 2016 - Present: Software Engineer](#-2016---present-software-engineer)
-- [🌐 2014 - 2016: SEO & First Taste of Web Development](#-2014---2016-seo--first-taste-of-web-development)
+- [🌐 2014 - 2016: SEO & First Contact with Web Development](#-2014---2016-seo--first-contact-with-web-development)
 - [🍽️ 2010 - 2014: Luxury Hospitality](#️-2010---2014-luxury-hospitality)
 - [👦🏻 Early Life](#-early-life)
 - [🙊 Fun Facts](#-fun-facts)
 
 ## Now
+
+> [note]
+> 🫡 Open for Work!
 
 To see what I am up to most recently see my [status](https://github.com/aleksgorbenko#_status) section of my Github Profile or [Now](https://aleksgorbenko.dev/now/) page on my blog.
 
@@ -28,7 +31,7 @@ Over the years, I have had the pleasure of working for several London-based comp
 
 I was fortunate to work with many talented engineers and non-engineers, many of whom became my mentors and close friends.
 
-In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7 nationalities, managing 3 finTech products for UK-based banks and financial institutions. These systems were deployed in Kubernetes and designed as distributed microservices architectures.
+In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7 nationalities, managing 3 finTech products for UK-based banks and financial institutions. These microservices systems were deployed in Kubernetes clusters as in AWS and GCP.
 
 After this experience, I embarked on a self-improvised [sabbatical](#-sabbatical) to reflect and think about my next steps.
 
@@ -50,7 +53,7 @@ During the sabbatical for about 3 months, I took care of some of the health issu
 
 Those were some of the most epic adventures I've had to date, with a number of personal breakthroughs, valuable life lessons, decisions made, and countless blisters on my feet.
 
-## 🌐 2014 - 2016: SEO & First Taste of Web Development
+## 🌐 2014 - 2016: SEO & First Contact with Web Development
 
 While working at the hotel, I quite randomly went for a hackathon. I was quite into bodybuilding at the time and had an idea related to that to pitch. My idea even got shortlisted, but I failed to attract the interest of developers who were at the hackathon to join my group, so we couldn't build anything. With the team disbanded, I joined another team where I met someone who ran an SEO Agency. I asked if I could come and work for them, and to my amazement, they agreed. I had no clue what SEO meant at the time, or how the web worked, but I learned pretty fast and started to dabble with HTML, CSS, JavaScript, Apache servers, WordPress. The more I learned, the more I found myself enjoying doing the technical side of things, which eventually led me to enrol on an online [coding bootcamp](https://aleksgorbenko.dev/firehose-project-week-1/).
 
@@ -92,6 +95,7 @@ I follow this advice to this day. In life and work.
 2️⃣ I probably became fluent in English by playing World of Warcraft. I will be forever grateful to my grandma for investing in my extra English lessons from an early age.
 
 ### Links
+
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
 - 💻 [GitHub Profile](https://github.com/aleksgorbenko)
 - 👨🏻‍💻 [How I Work](https://github.com/aleksgorbenko/howiwork)
