@@ -16,10 +16,7 @@ While this is not strictly a resume, it is a story I want to share about my path
 
 ## Now
 
-> [note]
-> 🫡 Open for Work!
-
-To see what I am up to most recently see my [status](https://github.com/aleksgorbenko#_status) section of my Github Profile or [Now](https://aleksgorbenko.dev/now/) page on my blog.
+See my [Github Profile Status](https://github.com/aleksgorbenko#_status) or [Now](https://aleksgorbenko.dev/now/) page on my blog.
 
 ## 👨🏻‍🦲 2016 - Present: Software Engineer
 
@@ -35,7 +32,7 @@ In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7
 
 After this experience, I embarked on a self-improvised [sabbatical](#-sabbatical) to reflect and think about my next steps.
 
-#### ➕ Skill Progression
+#### ➕ Skills
 
 - ✅ Team Leadership
 - ✅ Payment Systems, Real-time video streaming
@@ -59,7 +56,7 @@ While working at the hotel, I quite randomly went for a hackathon. I was quite i
 
 After finishing the bootcamp, I spent 3 months searching for a new role whilst still working for the agency. After going to a random tech job fair, I landed 2 opportunities, both of which translated offers for a Junior Software Engineer position. This taught me the importance of a face-to-face interaction and networking. I blogged about my search [here](https://medium.com/free-code-camp/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f).
 
-#### ➕ Skill Progression
+#### ➕ Skills
 
 - ✅ Web Development Fundamentals & SEO
 - ✅ Coding
@@ -69,7 +66,7 @@ After finishing the bootcamp, I spent 3 months searching for a new role whilst s
 
 I studied Hotel and Tourism Management, and worked in between the semesters at prestigious 5-star hotels and 3-star Michelin restaurants in the UK. The career prospects were promising, but shortly after moving to London for my Manager-in-Training, I decided to drop out and leave the industry. I had no plan and no idea what I was doing, but I was determined to make the most of time in London and figure out my career path.
 
-#### ➕ Skill Progression
+#### ➕ Skills
 
 - ✅ Communication Ability
 - ✅ Working in high-pressure environments
