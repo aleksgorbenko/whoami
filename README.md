@@ -50,6 +50,23 @@ During the sabbatical for about 3 months, I took care of some of the health issu
 
 Those were some of the most epic adventures I've had to date, with a number of personal breakthroughs, valuable life lessons, decisions made, and countless blisters on my feet.
 
+### 🍎 Indie macOS Developer
+
+After the sabbatical, I started building my own native macOS apps - small, fast tools for things I do every day:
+
+- [Bukku](https://aleksgorbenko.dev/apps/bukku/) - instant search for browser tabs, bookmarks and history. Released in November 2026 on the Mac App Store and as a direct download
+- [Clippu](https://aleksgorbenko.dev/apps/clippu/) - a clipboard manager for macOS, currently in development
+- Kioku - a learning tool, currently in research
+
+I do everything end-to-end: product, design, code, release, website and marketing.
+
+#### ➕ Skills
+
+- ✅ Swift, SwiftUI, AppKit
+- ✅ Mac App Store and direct distribution: App Store Connect, notarisation, Sparkle updates, Lemon Squeezy, Homebrew
+- ✅ Release automation with one command per channel
+- ✅ Product copy, website and marketing assets
+
 ## 🌐 2014 - 2016: SEO & First Contact with Web Development
 
 While working at the hotel, I quite randomly went for a hackathon. I was quite into bodybuilding at the time and had an idea related to that to pitch. My idea even got shortlisted, but I failed to attract the interest of developers who were at the hackathon to join my group, so we couldn't build anything. With the team disbanded, I joined another team where I met someone who ran an SEO Agency. I asked if I could come and work for them, and to my amazement, they agreed. I had no clue what SEO meant at the time, or how the web worked, but I learned pretty fast and started to dabble with HTML, CSS, JavaScript, Apache servers, WordPress. The more I learned, the more I found myself enjoying doing the technical side of things, which eventually led me to enrol on an online [coding bootcamp](https://aleksgorbenko.dev/firehose-project-week-1/).
