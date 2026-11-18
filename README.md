@@ -20,7 +20,7 @@ See my [GitHub Profile Status](https://github.com/aleksgorbenko#_status) or [My 
 
 ## 👨🏻‍🦲 2016 - Present: Software Engineer
 
-Over the years, I have had the pleasure of working for several London-based companies in fintech, live-stream video and HR employee management sectors and growing professionally:
+Over the years, I have had the pleasure of working for several London-based companies in fintech, live-stream video, HR employee management, and podcast recording & distribution sectors and growing professionally:
 
 - Junior Engineer to Senior Engineer in 3.5 years
 - Senior Engineer to Team Lead in the next 2.5 years
@@ -29,6 +29,8 @@ Over the years, I have had the pleasure of working for several London-based comp
 I was fortunate to work with many talented engineers and non-engineers, many of whom became my mentors and close friends.
 
 In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7 nationalities, managing 3 fintech products for UK-based banks and financial institutions. These microservices systems were deployed in Kubernetes clusters as in AWS and GCP.
+
+I architected and led the implementation of a payment gateway system that handles 100+ million financial transactions daily in the UK.
 
 After this experience, I embarked on a self-improvised [sabbatical](#-sabbatical) to reflect and think about my next steps.
 
