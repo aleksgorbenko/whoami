@@ -16,7 +16,7 @@ While this is not strictly a resume, it is a story I want to share about my path
 
 ## Now
 
-See my [Github Profile Status](https://github.com/aleksgorbenko#_status) or [Now](https://aleksgorbenko.dev/now/) page on my blog.
+See my [GitHub Profile Status](https://github.com/aleksgorbenko#_status) or [Now](https://aleksgorbenko.dev/now/) page on my blog.
 
 ## 👨🏻‍🦲 2016 - Present: Software Engineer
 
@@ -28,11 +28,11 @@ Over the years, I have had the pleasure of working for several London-based comp
 
 I was fortunate to work with many talented engineers and non-engineers, many of whom became my mentors and close friends.
 
-In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7 nationalities, managing 3 finTech products for UK-based banks and financial institutions. These microservices systems were deployed in Kubernetes clusters as in AWS and GCP.
+In my role as a Team Lead, I managed a fully remote team of 8 engineers across 7 nationalities, managing 3 fintech products for UK-based banks and financial institutions. These microservices systems were deployed in Kubernetes clusters as in AWS and GCP.
 
 After this experience, I embarked on a self-improvised [sabbatical](#-sabbatical) to reflect and think about my next steps.
 
-#### ➕ Skills
+### ➕ Skills
 
 - ✅ Team Leadership
 - ✅ Payment Systems, Real-time video streaming
@@ -44,9 +44,9 @@ After this experience, I embarked on a self-improvised [sabbatical](#-sabbatical
 During the sabbatical for about 3 months, I took care of some of the health issues, read lots of books and completed 2 pilgrimages:
 
 - Shikoku Henro Pilgrimage (四国遍路), Japan
-  - I took many longer alternative paths and did an extension to this pilgrimage, which totalled to [~1775km and ~30km elevation gain](https://www.strava.com/athletes/142821511) in 53 days.
-- El Camino Frances + Fisterre Pilgrimage, Spain
-  - Walked a total of [~1000km and ~14km elevation gain]((https://www.strava.com/athletes/142821511))
+  - I took many longer alternative paths and did an extension to this pilgrimage, which totalled to [~1775km and ~30km elevation gain](https://www.strava.com/athletes/aleksgorbenko) in 53 days.
+- El Camino Frances + Finisterre Pilgrimage, Spain
+  - Walked a total of [~1000km and ~14km elevation gain](https://www.strava.com/athletes/aleksgorbenko)
 
 Those were some of the most epic adventures I've had to date, with a number of personal breakthroughs, valuable life lessons, decisions made, and countless blisters on my feet.
 
@@ -71,9 +71,9 @@ I do everything end-to-end: product, design, code, release, website and marketin
 
 While working at the hotel, I quite randomly went for a hackathon. I was quite into bodybuilding at the time and had an idea related to that to pitch. My idea even got shortlisted, but I failed to attract the interest of developers who were at the hackathon to join my group, so we couldn't build anything. With the team disbanded, I joined another team where I met someone who ran an SEO Agency. I asked if I could come and work for them, and to my amazement, they agreed. I had no clue what SEO meant at the time, or how the web worked, but I learned pretty fast and started to dabble with HTML, CSS, JavaScript, Apache servers, WordPress. The more I learned, the more I found myself enjoying doing the technical side of things, which eventually led me to enrol on an online [coding bootcamp](https://aleksgorbenko.dev/firehose-project-week-1/).
 
-After finishing the bootcamp, I spent 3 months searching for a new role whilst still working for the agency. After going to a random tech job fair, I landed 2 opportunities, both of which translated offers for a Junior Software Engineer position. This taught me the importance of a face-to-face interaction and networking. I blogged about my search [here](https://medium.com/free-code-camp/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f).
+After finishing the bootcamp, I spent 3 months searching for a new role whilst still working for the agency. After going to a random tech job fair, I landed 2 opportunities, both of which translated offers for a Junior Software Engineer position. This taught me the importance of a face-to-face interaction and networking. I blogged about [my search](https://medium.com/free-code-camp/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f).
 
-#### ➕ Skills
+### ➕ Skills
 
 - ✅ Web Development Fundamentals & SEO
 - ✅ Coding
@@ -83,7 +83,7 @@ After finishing the bootcamp, I spent 3 months searching for a new role whilst s
 
 I studied Hotel and Tourism Management, and worked in between the semesters at prestigious 5-star hotels and 3-star Michelin restaurants in the UK. The career prospects were promising, but shortly after moving to London for my Manager-in-Training, I decided to drop out and leave the industry. I had no plan and no idea what I was doing, but I was determined to make the most of time in London and figure out my career path.
 
-#### ➕ Skills
+### ➕ Skills
 
 - ✅ Communication Ability
 - ✅ Working in high-pressure environments
