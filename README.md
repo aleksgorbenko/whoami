@@ -16,15 +16,15 @@ While this is not strictly a resume, it is a story I want to share about my path
 
 ## Now
 
-See my [GitHub Profile Status](https://github.com/aleksgorbenko#_status) or [Now](https://aleksgorbenko.dev/now/) page on my blog.
+See my [GitHub Profile Status](https://github.com/aleksgorbenko#_status) or [My blog homepage](https://aleksgorbenko.dev/).
 
 ## 👨🏻‍🦲 2016 - Present: Software Engineer
 
-Over the years, I have had the pleasure of working for several London-based companies in fintech, live-stream video and employee engagement sectors and growing professionally:
+Over the years, I have had the pleasure of working for several London-based companies in fintech, live-stream video and HR employee management sectors and growing professionally:
 
 - Junior Engineer to Senior Engineer in 3.5 years
 - Senior Engineer to Team Lead in the next 2.5 years
-- Team Lead for 1.5 years
+- Team Lead for 1.5+ years
 
 I was fortunate to work with many talented engineers and non-engineers, many of whom became my mentors and close friends.
 
@@ -41,31 +41,30 @@ After this experience, I embarked on a self-improvised [sabbatical](#-sabbatical
 
 ### 🥾 Sabbatical
 
-During the sabbatical for about 3 months, I took care of some of the health issues, read lots of books and completed 2 pilgrimages:
+During the sabbatical that lasted around 10 months, I thought, read and wrote a lot and completed 2 pilgrimages:
 
 - Shikoku Henro Pilgrimage (四国遍路), Japan
-  - I took many longer alternative paths and did an extension to this pilgrimage, which totalled to [~1775km and ~30km elevation gain](https://www.strava.com/athletes/aleksgorbenko) in 53 days.
+  - I took many longer alternative paths and did an extension to this pilgrimage, which totalled to [~1775km and ~30km elevation gain](https://www.strava.com/activities/13690079722) in 53 days.
 - El Camino Frances + Finisterre Pilgrimage, Spain
-  - Walked a total of [~1000km and ~14km elevation gain](https://www.strava.com/athletes/aleksgorbenko)
+  - Walked a total of [~1000km and ~14km elevation gain](https://www.strava.com/activities/12288771261)
 
 Those were some of the most epic adventures I've had to date, with a number of personal breakthroughs, valuable life lessons, decisions made, and countless blisters on my feet.
 
 ### 🍎 Indie macOS Developer
 
-After the sabbatical, I started building my own native macOS apps - small, fast tools for things I do every day:
+From the late summer of 2026 I am building my own native macOS apps - **small, fast, privacy-focused** tools for things I do every day:
 
 - [Bukku](https://aleksgorbenko.dev/apps/bukku/) - instant search for browser tabs, bookmarks and history. Released in November 2026 on the Mac App Store and as a direct download
 - [Clippu](https://aleksgorbenko.dev/apps/clippu/) - a clipboard manager for macOS, currently in development
 - Kioku - a learning tool, currently in research
 
-I do everything end-to-end: product, design, code, release, website and marketing.
+I do everything end-to-end: Product, Design, Code, Release, Website and Marketing.
 
 #### ➕ Skills
 
-- ✅ Swift, SwiftUI, AppKit
-- ✅ Mac App Store and direct distribution: App Store Connect, notarisation, Sparkle updates, Lemon Squeezy, Homebrew
-- ✅ Release automation with one command per channel
-- ✅ Product copy, website and marketing assets
+- ✅ Technologies: Swift, SwiftUI, AppKit, Xcode Cloud
+- ✅ Application Distribution: App Store and Direct. App Store Connect, Notarisation, Sparkle updates, Licencing, Homebrew
+- ✅ Product copy, marketing assets: images, animation, video
 
 ## 🌐 2014 - 2016: SEO & First Contact with Web Development
 
